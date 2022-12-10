@@ -1,0 +1,64 @@
+{
+  "issues": [
+    {
+      "id": 1,
+      "issuedescription": "On clicking Delete, the application crashes.",
+      "severity": "Critical",
+      "status": "Open"
+    },
+    {
+      "id": 2,
+      "issuedescription": "The heading Add is wrongly displayed as Edit.",
+      "severity": "Minor",
+      "status": "Closed"
+    },
+    {
+      "id": 3,
+      "issuedescription": "The payment functionality is missing.",
+      "severity": "Major",
+      "status": "In Progress"
+    },
+    {
+      "issuedescription": "da",
+      "severity": "Major",
+      "status": "Closed",
+      "id": 4
+    },
+    {
+      "issuedescription": "da",
+      "severity": "Major",
+      "status": "Closed",
+      "id": 5
+    },
+    {
+      "issuedescription": "da",
+      "severity": "Major",
+      "status": "Closed",
+      "id": 6
+    },
+    {
+      "issuedescription": "da",
+      "severity": "Major",
+      "status": "Closed",
+      "id": 7
+    },
+    {
+      "issuedescription": "da",
+      "severity": "Major",
+      "status": "Closed",
+      "id": 8
+    },
+    {
+      "issuedescription": "da",
+      "severity": "Major",
+      "status": "Closed",
+      "id": 9
+    },
+    {
+      "issuedescription": "let me check",
+      "severity": "Critical",
+      "status": "Closed",
+      "id": 10
+    }
+  ]
+}
